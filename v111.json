@@ -2,7 +2,7 @@
   "apps": [
     {
       "status": 1,
-      "featured_categories": "Wallpaper",
+      "featured_categories": "Wallpaper, Aesthetic",
       "show_wallpaper_name": true,
       "show_wallpaper_category": true,
       "show_favorite_button_in_wallpaper_list": true,
@@ -64,6 +64,306 @@
     }
   ],
   "categories": [
+    {
+      "category_id": 1,
+      "category_name": "Wallpaper",
+      "category_image": "https://i.pinimg.com/564x/a8/49/d8/a849d8efdd57558188f19f14da96c9f8.jpg"
+    },
+    {
+      "category_id": 2,
+      "category_name": "Aesthetic",
+      "category_image": "https://i.pinimg.com/564x/ce/29/55/ce2955f09a15dca8b900f694e8da7ed5.jpg"
+    }
+  ],
+  "wallpapers": [
+    {
+      "wallpaper_id": 90,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/6c/41/94/6c4194c3a98c0dcd8f687e40adfe693c.jpg"
+    },
+    {
+      "wallpaper_id": 89,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/94/64/fe/9464febadb8efd865ab7588faa42f6f3.jpg"
+    },
+    {
+      "wallpaper_id": 88,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/4d/69/05/4d69054eae2862fc97604d926eb48d2b.jpg"
+    },
+    {
+      "wallpaper_id": 87,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/92/b6/98/92b698ba41851c9bdc163e0adcfb3998.jpg"
+    },
+    {
+      "wallpaper_id": 86,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/d3/36/99/d33699ad10826014d79231b69f405b8b.jpg"
+    },
+    {
+      "wallpaper_id": 85,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/2e/d7/0a/2ed70ab466b9976d8221421512fca869.jpg"
+    },
+    {
+      "wallpaper_id": 84,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/34/bd/7a/34bd7a924a4be032d75949d5afdb7865.jpg"
+    },
+    {
+      "wallpaper_id": 83,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/fb/6d/e8/fb6de83ff2ce1f9d330dd1eff59b7ddd.jpg"
+    },
+    {
+      "wallpaper_id": 82,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/ce/29/55/ce2955f09a15dca8b900f694e8da7ed5.jpg"
+    },
+    {
+      "wallpaper_id": 81,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/7d/17/d5/7d17d5a368ea88046724fc0e1509acb0.jpg"
+    },
+    {
+      "wallpaper_id": 80,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/a7/8f/44/a78f44f78fa52f7da3a2c7f89f80f789.jpg"
+    },
+    {
+      "wallpaper_id": 79,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/f5/5a/26/f55a26cfba777577bae7e6680c4ac41f.jpg"
+    },
+    {
+      "wallpaper_id": 78,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/d6/80/a5/d680a5496038f54e281efc091d1133c2.jpg"
+    },
+    {
+      "wallpaper_id": 77,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/a2/eb/67/a2eb67892f0120503ae2f90de852fa83.jpg"
+    },
+    {
+      "wallpaper_id": 76,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/3b/28/9c/3b289cba90699597c107edb75634892c.jpg"
+    },
+    {
+      "wallpaper_id": 75,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/8a/72/f4/8a72f4bb43d6d06c1a4036ad7d708bbc.jpg"
+    },
+    {
+      "wallpaper_id": 74,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/f5/4a/b0/f54ab09baaeea03f805dc57671f8d200.jpg"
+    },
+    {
+      "wallpaper_id": 73,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/28/62/02/286202ae9425192dadd9badffe5cbcd2.jpg"
+    },
+    {
+      "wallpaper_id": 72,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/9f/67/b1/9f67b1b338ac5e6ca7ecf590b291b9d1.jpg"
+    },
+    {
+      "wallpaper_id": 71,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/89/d1/81/89d1819729ae3f1eb14b9bf90e5add7f.jpg"
+    },
+    {
+      "wallpaper_id": 70,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/65/ce/83/65ce8345a351e2096c82b314d708a94f.jpg"
+    },
+    {
+      "wallpaper_id": 69,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/d5/59/0a/d5590a26f437a74aabf7713552492bb3.jpg"
+    },
+    {
+      "wallpaper_id": 68,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/f9/0b/73/f90b739e25e69924fc011c7fe2756913.jpg"
+    },
+    {
+      "wallpaper_id": 67,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/fc/55/4e/fc554e6bfb199fff5d5a8b684e260b4c.jpg"
+    },
+    {
+      "wallpaper_id": 66,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/80/e1/0c/80e10c18db34f8c16dd2ef12962d5649.jpg"
+    },
+    {
+      "wallpaper_id": 65,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/99/93/8d/99938d0d4f3f7f6234f82d4015273234.jpg"
+    },
+    {
+      "wallpaper_id": 64,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/89/0e/03/890e03b306fdbfb7900a2ab72aaadd08.jpg"
+    },
+    {
+      "wallpaper_id": 63,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/34/53/2c/34532c2b99204247999b80d876f21644.jpg"
+    },
+    {
+      "wallpaper_id": 62,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/63/d9/8d/63d98d0bb9cac69d696a6f51db8b65d3.jpg"
+    },
+    {
+      "wallpaper_id": 61,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/ca/8c/df/ca8cdfbb392a166a7e973552542d516c.jpg"
+    },
+    {
+      "wallpaper_id": 60,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/bd/05/42/bd0542afd6ccb081c323bab95639c38e.jpg"
+    },
+    {
+      "wallpaper_id": 59,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/95/c7/90/95c790381adc5324fa8e1554c439c432.jpg"
+    },
+    {
+      "wallpaper_id": 58,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/fe/c7/9b/fec79b6bc8220c986b406f68b6188cd5.jpg"
+    },
+    {
+      "wallpaper_id": 57,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/4c/50/61/4c5061885ac917fbca191aed747f81a1.jpg"
+    },
+    {
+      "wallpaper_id": 56,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/68/ee/a1/68eea1ecf081f3a3f925868b628bd73e.jpg"
+    },
+    {
+      "wallpaper_id": 55,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/58/4d/41/584d41d432d9f354e606afd440e9c7dd.jpg"
+    },
+    {
+      "wallpaper_id": 54,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/49/50/b7/4950b7fa85402c519d56f70ef6abde6f.jpg"
+    },
+    {
+      "wallpaper_id": 53,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/a2/a6/ae/a2a6ae74061315da5fa97815ca21fda7.jpg"
+    },
+    {
+      "wallpaper_id": 52,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/21/58/8a/21588a58f660182ad3010b8e7590d161.jpg"
+    },
+    {
+      "wallpaper_id": 51,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/c0/e3/5b/c0e35b08cbeed79bed4081d48adc7f6c.jpg"
+    },
+    {
+      "wallpaper_id": 50,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/b4/4b/af/b44baf105030fb51549649b58a10d45d.jpg"
+    },
+    {
+      "wallpaper_id": 49,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/b5/2d/5c/b52d5ca6679647fe4b1a9436953550ef.jpg"
+    },
+    {
+      "wallpaper_id": 48,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/11/07/ac/1107acc4c32e25d3d35f345e720f9933.jpg"
+    },
+    {
+      "wallpaper_id": 47,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/cf/58/22/cf58223092e7536b4cb7181c39d55a1b.jpg"
+    },
+    {
+      "wallpaper_id": 46,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/8f/57/3e/8f573e8741abacb485afa54b9bd20e93.jpg"
+    },
+    {
+      "wallpaper_id": 45,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/21/62/9e/21629e095b91e27714bfd74a92055216.jpg"
+    },
+    {
+      "wallpaper_id": 44,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/c0/69/7e/c0697e34cd826736d753d45680e1e8d2.jpg"
+    },
+    {
+      "wallpaper_id": 43,
+      "category_name": "Aesthetic",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/fe/8d/a4/fe8da44eba4936a64cc5221efa099067.jpg"
+    },
     {
       "wallpaper_id": 42,
       "category_name": "Wallpaper",
