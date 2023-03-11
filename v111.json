@@ -6,7 +6,7 @@
       "api_key_youtube4":"AIzaSyCNRmNrAe3ligCY-w0YR0ZfuJ4PkdbcVTA",
       "api_key_youtube5":"AIzaSyCNRmNrAe3ligCY-w0YR0ZfuJ4PkdbcVTA",
       "playlist_id":"PL230qzlZE-AFGoR6EHDZq20jGpwIXTug6",
-      "show_ads":"1",
+      "show_ads":"0",
       "select_main_ads": "ADMOB",
       "select_backup_ads":"ADMOB",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
