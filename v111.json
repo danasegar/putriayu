@@ -73,10 +73,309 @@
       "category_id": 2,
       "category_name": "Aesthetic",
       "category_image": "https://i.pinimg.com/564x/ce/29/55/ce2955f09a15dca8b900f694e8da7ed5.jpg"
+    },
+    {
+      "category_id": 3,
+      "category_name": "Dark",
+      "category_image": "https://i.pinimg.com/originals/cc/b0/90/ccb0908a855d561d8663fef5e05a2cf7.jpg"
     }
   ],
   "wallpapers": [
     {
+      "wallpaper_id": 139,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/cc/b0/90/ccb0908a855d561d8663fef5e05a2cf7.jpg"
+    },
+    {
+      "wallpaper_id": 138,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/5b/1b/6e/5b1b6e45afb548856a92899a83d5f821.jpg"
+    },
+    {
+      "wallpaper_id": 137,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/2b/63/f6/2b63f69d422fc556c0d5eadd25461a4a.jpg"
+    },
+    {
+      "wallpaper_id": 136,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/38/3d/50/383d504d77b9d39a466efe83bcb39c4c.jpg"
+    },
+    {
+      "wallpaper_id": 135,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/5c/a6/2f/5ca62fdc405485d0bd352b6d40630f7f.jpg"
+    },
+    {
+      "wallpaper_id": 134,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/d8/27/5d/d8275d7285583ddab4d5e9cda8955f86.jpg"
+    },
+    {
+      "wallpaper_id": 133,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/bf/b9/cb/bfb9cb9d198bd28beef9e8d7c9576a69.jpg"
+    },
+    {
+      "wallpaper_id": 132,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/80/a0/82/80a082fa75d51638a7083b3a9645ec62.jpg"
+    },
+    {
+      "wallpaper_id": 131,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/bb/cc/fb/bbccfbf68531d87bd91a37c8c950d062.jpg"
+    },
+    {
+      "wallpaper_id": 130,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/47/13/20/47132047d1f7e8cd7fdb47937261d3b4.jpg"
+    },
+    {
+      "wallpaper_id": 129,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/65/dc/9f/65dc9f0aaf591fa7b193ea07e709ff50.jpg"
+    },
+    {
+      "wallpaper_id": 128,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/b8/8c/1a/b88c1abe94b4589750fd28587e122d73.jpg"
+    },
+    {
+      "wallpaper_id": 127,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/b1/f8/a8/b1f8a80548581c6f5041c50fa6960e3c.jpg"
+    },
+    {
+      "wallpaper_id": 126,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/d4/dd/45/d4dd453a192a5e07b47c58100e679c6d.jpg"
+    },
+    {
+      "wallpaper_id": 125,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/fd/5d/ae/fd5dae360ffd3b927cc486042f919b5c.jpg"
+    },
+    {
+      "wallpaper_id": 124,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/24/8d/df/248ddf3a26716a80b959b6f0b8c368b3.jpg"
+    },
+    {
+      "wallpaper_id": 123,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/99/f5/fb/99f5fb71d0602595e190f97f89e10791.jpg"
+    },
+    {
+      "wallpaper_id": 122,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/30/61/68/30616899dc0cc6c8aae5f4d7512e3443.jpg"
+    },
+    {
+      "wallpaper_id": 121,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/ed/34/dd/ed34dd1eaa39d1162c6681dfd8ace5ff.jpg"
+    },
+    {
+      "wallpaper_id": 120,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/5a/a4/a0/5aa4a06f4fa7727aed70fac214c6aa3e.jpg"
+    },
+    {
+      "wallpaper_id": 119,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/ec/47/d4/ec47d4722d9ad73c52921dc9cc52638e.jpg"
+    },
+    {
+      "wallpaper_id": 118,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/8f/69/17/8f6917378a6fc66dd989fe31a49fbcb9.jpg"
+    },
+    {
+      "wallpaper_id": 117,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/6f/41/e6/6f41e632aa496feb630f3ef84a1ebc74.jpg"
+    },
+    {
+      "wallpaper_id": 116,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/54/f4/ad/54f4adae86e755240f3a75b4ce571bd2.jpg"
+    },
+    {
+      "wallpaper_id": 115,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/47/04/af/4704af5862446c2f1e3d48159a44a065.jpg"
+    },
+    {
+      "wallpaper_id": 114,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/64/8a/b0/648ab08e35d40f176a53314630f70d4a.jpg"
+    },
+    {
+      "wallpaper_id": 113,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/70/2a/2b/702a2be10bed795ac2d4f88357adeb71.jpg"
+    },
+    {
+      "wallpaper_id": 112,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/4d/98/69/4d98696493e2ad44f0e3fa22a9df555a.jpg"
+    },
+    {
+      "wallpaper_id": 111,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/0e/1f/99/0e1f9920f21ae7a5ef213ae4a1f7e685.jpg"
+    },
+    {
+      "wallpaper_id": 110,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/12/bd/30/12bd30985a6043d4266c7db33f995fd0.jpg"
+    },
+    {
+      "wallpaper_id": 109,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/7c/24/85/7c2485609669f58f3f7eca16a4cf0c86.jpg"
+    },
+    {
+      "wallpaper_id": 108,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/0e/df/b5/0edfb5bbd977e760ddb41cc7c17eb52d.jpg"
+    },
+    {
+      "wallpaper_id": 107,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/f3/31/7b/f3317b5ec7c7f012fff67a1ba6fac1a9.jpg"
+    },
+    {
+      "wallpaper_id": 106,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/9d/ba/41/9dba41c18de13b2726e58fc4cde6335d.jpg"
+    },
+    {
+      "wallpaper_id": 105,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/0c/4b/08/0c4b08708a5bd3ee9fae5082d1908ee9.jpg"
+    },
+    {
+      "wallpaper_id": 104,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/86/97/bf/8697bfc632be32c02872762d44b239d1.jpg"
+    },
+    {
+      "wallpaper_id": 103,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/a5/db/ff/a5dbff469ec1ec21098786aba8157df4.jpg"
+    },
+    {
+      "wallpaper_id": 102,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/f0/aa/3b/f0aa3bdd5cca50164a90b6d1453695c2.jpg"
+    },
+    {
+      "wallpaper_id": 101,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/cf/73/67/cf7367c817637f07b7a59d66849b11bb.jpg"
+    },
+    {
+      "wallpaper_id": 100,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/c2/57/d1/c257d1af3c9564e406b9f87c1766205e.jpg"
+    },
+    {
+      "wallpaper_id": 99,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/5c/49/6a/5c496a70e808574c086a72b5874b80af.jpg"
+    },
+    {
+      "wallpaper_id": 98,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/d0/70/52/d07052b8e25fed8188cb64ace93a0ff5.jpg"
+    },
+    {
+      "wallpaper_id": 97,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/6a/dc/c4/6adcc49e40bc7d37483a8efd45e62fd4.jpg"
+    },
+    {
+      "wallpaper_id": 96,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/16/af/20/16af20f607d5bd791ddd3031689f9962.jpg"
+    },
+    {
+      "wallpaper_id": 95,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/7d/db/85/7ddb85d176da1e3356be04731f676976.jpg"
+    },
+    {
+      "wallpaper_id": 94,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/8b/2b/d6/8b2bd6bdbe53adb3b48308b4bd118d0a.jpg"
+    },
+    {
+      "wallpaper_id": 93,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/38/17/56/381756158c75a4c2d46634777a86307f.jpg"
+    },
+    {
+      "wallpaper_id": 92,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/c6/f8/1e/c6f81e56eb87b5c6afca7b3835a3b101.jpg"
+    },
+    {
+      "wallpaper_id": 91,
+      "category_name": "Dark",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/51/9f/9f/519f9fe3893dd6a155c173eb06c1f84a.jpg"
+    },
+	{
       "wallpaper_id": 90,
       "category_name": "Aesthetic",
       "wallpaper_name": "by Sheila barnett",
