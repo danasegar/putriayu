@@ -2,7 +2,7 @@
   "apps": [
     {
       "status": 1,
-      "featured_categories": "Wallpaper, Aesthetic",
+      "featured_categories": "Wallpaper,Aesthetic,Dark",
       "show_wallpaper_name": true,
       "show_wallpaper_category": true,
       "show_favorite_button_in_wallpaper_list": true,
