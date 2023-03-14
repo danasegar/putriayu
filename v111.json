@@ -2,7 +2,7 @@
   "apps": [
     {
       "status": 1,
-      "featured_categories": "Nature,Flower,Live Wallpaper,Beach,Space,Sunset",
+      "featured_categories": "Wallpaper",
       "show_wallpaper_name": true,
       "show_wallpaper_category": true,
       "show_favorite_button_in_wallpaper_list": true,
@@ -64,10 +64,301 @@
     }
   ],
   "categories": [
-    
+    {
+      "category_id": 1,
+      "category_name": "Wallpaper",
+      "category_image": "https://i.pinimg.com/originals/b3/5c/ee/b35cee0eca8133353ede91ba9e939135.jpg"
+    }
   ],
   "wallpapers": [
-    
+    {
+      "wallpaper_id": 48,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/8a/68/73/8a687300796e07bcd0e68add44f34bc8.jpg"
+    },
+    {
+      "wallpaper_id": 47,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/99/e4/e0/99e4e0cb28b715076d35dacf5ceda9b4.jpg"
+    },
+    {
+      "wallpaper_id": 46,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/28/f8/9a/28f89ad3f539bb996985d25c0cee648a.jpg"
+    },
+    {
+      "wallpaper_id": 45,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/5c/f2/89/5cf289f9ab3799ba667d2fb58ed568f9.jpg"
+    },
+    {
+      "wallpaper_id": 44,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/98/a9/e1/98a9e1d79c2d397610c9a8611563e44d.jpg"
+    },
+    {
+      "wallpaper_id": 43,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/3e/4e/59/3e4e5922300c438e82557b2d811943f6.jpg"
+    },
+    {
+      "wallpaper_id": 42,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/c3/be/6b/c3be6b0f61faec56a9bd9d154b76a7c2.jpg"
+    },
+    {
+      "wallpaper_id": 41,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/54/55/23/54552325b144a311c5a827e44702fe64.jpg"
+    },
+    {
+      "wallpaper_id": 40,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/dc/7e/ba/dc7eba1259e128e7617e3020fc196024.jpg"
+    },
+    {
+      "wallpaper_id": 39,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/4f/a0/8d/4fa08d74ecd647267046a562637349c4.jpg"
+    },
+    {
+      "wallpaper_id": 38,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/17/10/1a/17101a02fbf23fcda19cc5171ef5a232.jpg"
+    },
+    {
+      "wallpaper_id": 37,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/a6/3e/d3/a63ed3ae8a50da6c02ad3d7ffe0c6a57.jpg"
+    },
+    {
+      "wallpaper_id": 36,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/45/b0/ba/45b0ba6f1601c840918821796dba958a.jpg"
+    },
+    {
+      "wallpaper_id": 35,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/99/06/3c/99063c9f25fd680f68bb016f463f056b.jpg"
+    },
+    {
+      "wallpaper_id": 34,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/f6/fc/3c/f6fc3cfbfcbd8bf3ba6a6b0eacda059c.jpg"
+    },
+    {
+      "wallpaper_id": 33,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/ad/4f/c8/ad4fc8fd9008646abb5787c80a73196a.jpg"
+    },
+    {
+      "wallpaper_id": 32,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/ce/52/62/ce5262539fb280f720e6ba4ebe7abf35.jpg"
+    },
+    {
+      "wallpaper_id": 31,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/43/26/ca/4326ca95b4908456009be35f09223dd3.jpg"
+    },
+    {
+      "wallpaper_id": 30,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/d0/36/9b/d0369bec7bd2408ea2d36cd6459a02cf.jpg"
+    },
+    {
+      "wallpaper_id": 29,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/28/09/e4/2809e40527e8465dec812d9fa963e9be.jpg"
+    },
+    {
+      "wallpaper_id": 28,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/4a/1f/50/4a1f502716f5ad46512944c2729d623d.jpg"
+    },
+    {
+      "wallpaper_id": 27,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/3e/74/d1/3e74d18fe448091f61d8dd76c23e82df.jpg"
+    },
+    {
+      "wallpaper_id": 26,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/1e/1e/98/1e1e9837aa9e842c05d83730e4d2b3c2.jpg"
+    },
+    {
+      "wallpaper_id": 25,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/4d/06/98/4d0698459e4fd1808815f71516016449.jpg"
+    },
+    {
+      "wallpaper_id": 24,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/b3/5c/ee/b35cee0eca8133353ede91ba9e939135.jpg"
+    },
+    {
+      "wallpaper_id": 23,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/fb/b6/5b/fbb65b2109a0491abac830a29b5b2205.jpg"
+    },
+    {
+      "wallpaper_id": 22,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/90/e0/f7/90e0f704319016a42a7f724ca0ab9576.jpg"
+    },
+    {
+      "wallpaper_id": 21,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/2d/e3/2f/2de32f126974b36622d44866ebedb486.jpg"
+    },
+    {
+      "wallpaper_id": 20,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/2b/6f/64/2b6f64ff0ca9a0e7af2756dff3b941fc.jpg"
+    },
+    {
+      "wallpaper_id": 19,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/57/ff/1a/57ff1ada778b3435337c59cc0d885d40.jpg"
+    },
+    {
+      "wallpaper_id": 18,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/d7/55/1a/d7551a635f4770cd0742810868cbbc0a.jpg"
+    },
+    {
+      "wallpaper_id": 17,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/5f/82/46/5f82468e4482996a718acbedcfeac79f.jpg"
+    },
+    {
+      "wallpaper_id": 16,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/33/a8/e3/33a8e371d8378e4b39c349d9321730fc.jpg"
+    },
+    {
+      "wallpaper_id": 15,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/de/88/3c/de883c6df6421b990df06850db61f318.jpg"
+    },
+    {
+      "wallpaper_id": 14,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/44/45/db/4445dbca4e461b8046fd30d4dcc7356e.jpg"
+    },
+    {
+      "wallpaper_id": 13,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/6f/1c/7a/6f1c7aafd8cb396dc06afa54d75c3e7c.jpg"
+    },
+    {
+      "wallpaper_id": 12,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/4e/fb/0e/4efb0e0f37e0a4576d7479036722770d.jpg"
+    },
+    {
+      "wallpaper_id": 11,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/79/d0/35/79d0358883b3bebad0a383f1a79a5896.jpg"
+    },
+    {
+      "wallpaper_id": 10,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/eb/49/29/eb492911914d4fc28c61c81d3ec772dd.jpg"
+    },
+    {
+      "wallpaper_id": 9,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/bb/7e/fb/bb7efb01701819c80c6fcc5e8d8ca0ee.jpg"
+    },
+    {
+      "wallpaper_id": 8,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/d3/3e/a2/d33ea2ac0b7e5862cf4611e2c82aadac.jpg"
+    },
+    {
+      "wallpaper_id": 7,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/17/8f/dc/178fdc4a606436b9f2b7d3ba7dbd2d04.jpg"
+    },
+    {
+      "wallpaper_id": 6,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/59/cb/89/59cb89535b22899d6389f251cf4485f2.jpg"
+    },
+    {
+      "wallpaper_id": 5,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/49/f1/53/49f153ee8fce0495acc761d8e349e793.jpg"
+    },
+    {
+      "wallpaper_id": 4,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/17/45/41/1745414f5b076cd450614b44d0aac527.jpg"
+    },
+    {
+      "wallpaper_id": 3,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/42/99/d5/4299d550ef9b9f0b8c82e63803794d58.jpg"
+    },
+    {
+      "wallpaper_id": 2,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/98/4b/80/984b80a963ec6379b89bb66e4431b584.jpg"
+    },
+    {
+      "wallpaper_id": 1,
+      "category_name": "Wallpaper",
+      "wallpaper_name": "by Sheila barnett",
+      "wallpaper_url": "https://i.pinimg.com/originals/92/13/91/921391c005af4f294717d3f211f41ed5.jpg"
+    }
   ],
   "more_apps": [
     
